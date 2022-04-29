@@ -1,5 +1,5 @@
 # Hello World 👋
- [![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanjilurrahman21@gmail.com)](mailto:tanjilurrahman21@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-tanjilurrahman21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanjilurrahman21@gmail.com)](mailto:tanjilurrahman21@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
