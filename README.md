@@ -7,6 +7,8 @@
 
 - 🔭 Undergraduate student of Computer Science and Engineering in Brac University, Dhaka, Bangladesh.
 - 💼 &nbsp; Currently working on resting
+- :apple: Beginner mindset (**open to learning**)
+
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - 💬 Ask me about anything on tanjilurrahman21@gmail.com
 - :star: You may like [My Portfolio website](https://tanjilurjim.github.io/jdot.github.io/) 、 
