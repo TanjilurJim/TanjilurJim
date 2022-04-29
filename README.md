@@ -26,14 +26,12 @@
 <p align="center"> 
 
 
-- Contributing on: <a href="https://github.com/PluckyPrecious"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 
-- Trying to be up to good on: <a href="https://twitter.com/PluckyPrecious"><img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&style=social" alt="Twitter"></a> 
+- Trying to be up to good on: <a href="https://twitter.com/4thSpiderman"><img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&style=social" alt="Twitter"></a> 
 
 
-- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://pluckys.home.blog/2019/11/01/the-journey-begins/">WordPress</a>
-
+- My Youtube Channel: <a href="https://www.youtube.com/channel/UCNnYBRO48MGLOfLCV_L64zg">YouTube</a> 
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
