@@ -5,11 +5,11 @@
 
 ### I'm Tanjilur Rahman 
 
-- 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China 
-- 🌱 Currently working on resting
-- 💬 Ask me about anything on haoruileee@gmail.com
-- :star: You may like [My Portfolio website](https://tanjilurjim.github.io/jdot.github.io/) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-- ⚡ Fun fact: Data Analysis📊
+- 🔭 Undergraduate student of Computer Science and Engineering in Brac University, Dhaka, Bangladesh.
+- 💼 &nbsp; Currently working on resting
+- 💬 Ask me about anything on tanjilurrahman21@gmail.com
+- :star: You may like [My Portfolio website](https://tanjilurjim.github.io/jdot.github.io/) 、 
+- ⚡ Fun fact: 
 
 ### Languages and Tools
 
