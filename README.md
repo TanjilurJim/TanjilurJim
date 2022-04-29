@@ -12,7 +12,7 @@
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - 💬 Ask me about anything on tanjilurrahman21@gmail.com
 - :star: You may like [My Portfolio website](https://tanjilurjim.github.io/jdot.github.io/) 、 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I used to be a Rapper !
 
 ### Languages and Tools
 
