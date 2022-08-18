@@ -9,7 +9,7 @@
 - 💼 &nbsp; Currently working on resting
 - :apple: Beginner mindset (**open to learning**)
 
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+- 🌱 &nbsp; Learning more about Backend and Frontend Developement.
 - 💬 Ask me about anything on tanjilurrahman21@gmail.com
 - :star: You may like [My Portfolio website](https://tanjilurjim.github.io/jdot.github.io/) 、 
 - ⚡ Fun fact: I used to be a Rapper !
@@ -20,7 +20,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ## Find me around the WWW🌎:
 
 <p align="center"> 
