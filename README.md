@@ -37,4 +37,13 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
+![](https://komarev.com/ghpvc/?username=TanjilurJim&color=ff69b4)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TanjilurJim&card_width=330&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanjilurJim&layout=compact&langs_count=8&card_width=330&theme=radical" />
+</a>
+
 
