@@ -6,21 +6,29 @@
 
 ### I'm Tanjilur Rahman 
 
-- 🔭 Undergraduate student of Computer Science and Engineering in Brac University, Dhaka, Bangladesh.
-- 💼 &nbsp; Currently working on resting
+- 🔭 Currently Completed my BSc in Computer Science and Engineering from Brac University, Bangladesh
+- 💼 &nbsp; Currently learning JavaScript
 - :apple: Beginner mindset (**open to learning**)
 
 - 🌱 &nbsp; Learning more about Backend and Frontend Developement.
 - 💬 Ask me about anything on tanjilurrahman21@gmail.com
-- :star: You may like [My Portfolio website](https://tanjilurjim.github.io/jdot.github.io/) 、 
+- :star: You may like [My Portfolio website](http://tanjilurjdot.pythonanywhere.com/) 、 
 - ⚡ Fun fact: I used to be a Rapper !
 
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
+
 ## Find me around the WWW🌎:
 
 <p align="center"> 
