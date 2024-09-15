@@ -54,8 +54,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanjilurJim&layout=compact&langs_count=8&card_width=330&theme=radical" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulislam-ctrl&show_icons=true&locale=en&layout=compact" alt="nazrulislam-ctrl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazrulislam-ctrl&show_icons=true&locale=en" alt="nazrulislam-ctrl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam-ctrl&" alt="nazrulislam-ctrl" /></p>
