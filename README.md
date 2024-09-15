@@ -28,6 +28,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
+<code><img height="20" src="https://th.bing.com/th/id/OIP.kWwHTGeciQJepFSKEAQVtQHaEl?rs=1&pid=ImgDetMain"></code>
 
 ## Find me around the WWW🌎:
 
